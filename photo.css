@@ -1,0 +1,13 @@
+img{
+    width:30%;
+    margin:calc(10%6);
+}
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid salmon;
+    width:50%;
+    margin-left:calc(10%6) ;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10em 0;
+}

@@ -1,0 +1,24 @@
+h1{
+    background-color: aquamarine;
+    border:5px solid blue;
+    color:white;
+    padding:0.7em;
+    width:300px;
+    font-size: 1.8em;
+    text-align: center;
+    margin:20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+h1:nth-last-of-type(2n){
+    background-color:rebeccapurple;
+}
+h1:nth-last-of-type(3n){
+    background-color: rosybrown;
+}
+h1:nth-last-of-type(4n){
+    background-color: burlywood;
+}
+h1:nth-last-of-type(1){
+    transform: rotate(45deg);
+}

@@ -1,0 +1,29 @@
+h1{
+    background-color: palevioletred;
+    border:1px solid salmon;
+
+}
+/* display of span */
+span{
+    background-color: aquamarine;
+    border:1px solid black;
+    width:50px;
+    padding: 100px;
+    margin:50px;
+
+}
+h1{
+    background-color: paleturquoise;
+    border: 1px solid black;
+    width:300px;
+    padding: 50px;
+    margin:100px;
+}
+div{
+    background-color: chartreuse;
+    border: 5px solid blue;
+    height:200px;
+    width:200px;
+    display:inline-block;
+    margin: 50px;
+}
